@@ -1,4 +1,4 @@
-package com.napier.john;
+package com.napier;
 
 public class App
 {
